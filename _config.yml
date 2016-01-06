@@ -2,12 +2,13 @@ name: RedeemingFallenAngels
 favicon: null
 layout_spectrum: 0.9731776076368988
 typography_spectrum: 0.01672226097434759
+title: 'Personal Portfolio, Photography and News of Dreadjim'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-26797810-1
   facebook: null
   twitter: null
 opengraph:
