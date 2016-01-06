@@ -4,11 +4,18 @@
         <description><![CDATA[Personal Portfolio, Photography and News of Dreadjim]]></description>
         <link>https://thegrid.ai/redeemingfallenangels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 13:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 13:56:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/redeemingfallenangels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61bb05-2205-48c6-8978-739e3c55fecb.jpg">]]></description>
+            <link>https://thegrid.ai/redeemingfallenangels/2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1/index.html</link>
+            <guid isPermaLink="false">2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1</guid>
+            <pubDate>Wed, 06 Jan 2016 13:56:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Works]]></title>
-            <description><![CDATA[<article><h1>New Works</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/11798695e4a18960168f7e43dad66bbed34534ed.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Works</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9871150df3dba9cb254f25bf669bad2c7d9f41a6.jpg"></article>]]></description>
             <link>https://thegrid.ai/redeemingfallenangels/new-works/index.html</link>
             <guid isPermaLink="false">08041cee-72d6-496d-ae2b-5626efc821ae</guid>
             <pubDate>Wed, 06 Jan 2016 13:19:14 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/redeemingfallenangels/c27778d1-302f-4adf-b38b-6ac3e3712470/index.html</link>
             <guid isPermaLink="false">c27778d1-302f-4adf-b38b-6ac3e3712470</guid>
             <pubDate>Wed, 06 Jan 2016 13:14:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61bb05-2205-48c6-8978-739e3c55fecb.jpg">]]></description>
-            <link>https://thegrid.ai/redeemingfallenangels/2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1/index.html</link>
-            <guid isPermaLink="false">2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1</guid>
-            <pubDate>Wed, 06 Jan 2016 12:05:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
