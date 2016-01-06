@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[RedeemingFallenAngels]]></title>
-        <description><![CDATA[RedeemingFallenAngels]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Personal Portfolio, Photography and News of Dreadjim]]></title>
+        <description><![CDATA[Personal Portfolio, Photography and News of Dreadjim]]></description>
+        <link>https://thegrid.ai/redeemingfallenangels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 12:06:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 13:15:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/redeemingfallenangels/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d72053c-181a-4d46-96b7-67670f7e8c15.jpg">]]></description>
+            <link>https://thegrid.ai/redeemingfallenangels/c27778d1-302f-4adf-b38b-6ac3e3712470/index.html</link>
+            <guid isPermaLink="false">c27778d1-302f-4adf-b38b-6ac3e3712470</guid>
+            <pubDate>Wed, 06 Jan 2016 13:14:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c61bb05-2205-48c6-8978-739e3c55fecb.jpg">]]></description>
-            <link>undefined2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1/index.html</link>
+            <link>https://thegrid.ai/redeemingfallenangels/2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1/index.html</link>
             <guid isPermaLink="false">2794f5d0-5d1a-48bc-bca2-f5fa1b7757d1</guid>
             <pubDate>Wed, 06 Jan 2016 12:05:32 GMT</pubDate>
         </item>
