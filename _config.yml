@@ -1,7 +1,7 @@
 name: RedeemingFallenAngels
 favicon: null
-layout_spectrum: 0.9731776076368988
-typography_spectrum: 0.01672226097434759
+layout_spectrum: 1
+typography_spectrum: 0.8632
 title: 'Personal Portfolio, Photography and News of Dreadjim'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fe0000'
+    - '#182335'
+    - '#999ca3'
+    - '#d6d9c4'
+    - '#8d1f26'
   brandStrength: 0.5834717496763915
-  lightness: 0.6711377333849669
+  lightness: 0.375
   saturation: 0.6721861299593002
-  rhythmicContrast: 0.9354731729254127
+  rhythmicContrast: 0.75
 purpose: []
