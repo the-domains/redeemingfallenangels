@@ -4,7 +4,7 @@
         <description><![CDATA[Personal Portfolio, Photography and News of Dreadjim]]></description>
         <link>https://thegrid.ai/redeemingfallenangels/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 13:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 13:58:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/redeemingfallenangels/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/redeemingfallenangels/new-works/index.html</link>
             <guid isPermaLink="false">08041cee-72d6-496d-ae2b-5626efc821ae</guid>
             <pubDate>Wed, 06 Jan 2016 13:19:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d72053c-181a-4d46-96b7-67670f7e8c15.jpg">]]></description>
-            <link>https://thegrid.ai/redeemingfallenangels/c27778d1-302f-4adf-b38b-6ac3e3712470/index.html</link>
-            <guid isPermaLink="false">c27778d1-302f-4adf-b38b-6ac3e3712470</guid>
-            <pubDate>Wed, 06 Jan 2016 13:14:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
